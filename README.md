@@ -1,25 +1,14 @@
-# 👋 Hi, I’m Claymon Muntu
+# 👋 Hi,
 
  **Entrepreneur | Educator | Data Science Learner**
 
-I’m a solopreneur building tools and educational platforms to help **freelancers, agency owners, and business builders** succeed in the new AI-powered economy.  
-I focus on combining **AI agents, smart templates, and practical education** to help others work smarter, scale faster, and achieve financial independence.
-
----
-
-##  Learning Journey
- Currently focused on:
-- **Data Science & Machine Learning:** Using data to inform real-world business decisions  
-- **AI Agent Development:** Building tools for education, content workflows, and agency operations  
-- **SaaS Architecture:** Reliable, scalable stacks for education & service platforms  
+I’m a solopreneur building tools and educational platforms to help **freelancers, agency owners, and business builders** succeed in the new AI-powered economy. 
 
 ---
 
 ##  GitHub & Growth Stats
 
-![Claymon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Claymon-Muntu&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Claymon-Muntu&theme=tokyonight&hide_border=true)
+![Claymon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Claymon-Muntu&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000)
 
 ---
 
@@ -42,18 +31,5 @@ A platform designed for **agency owners** to:
 
 ---
 
-##  My Entrepreneurial Focus
--  **Early-Stage Growth:** From zero → MVP → first customers  
--  **AI-Enabled Productivity:** Using AI agents to cut time and costs  
--  **Productized Education:** Courses, templates, and playbooks for independent operators
-
----
-
-##  Connect With Me
-- [Clayside](https://clayside.co) – Courses, AI prompts & templates for freelancers, business owners & agencies  
-- [6-Figure Agency](#) – Run and scale your agency to six figures and beyond  
-- [Blog](#) – Sharing lessons on AI, business, and scaling  
-
----
 
 >  **Vision:** Empower independent entrepreneurs and agencies with **education + AI + templates** to grow smarter and faster.
