@@ -6,24 +6,9 @@ Currently working as a solopreneur building tools and educational platforms to h
 
 ---
 
-##  Current Ventures
-
+##  Working On
 ###  [Clayside](https://clayside.co) — Educative Platform
-Helping **freelancers, business owners, and agency owners** learn, systemize, and grow their work.
--  Courses on productivity, AI tools, and business workflows  
--  Ready-to-use Notion templates and automations  
--  Curated AI prompts & frameworks for creative and client work  
+###  [6-Figure Agency](#) — Scale Your Agency 
 
 ---
-
-###  [6-Figure Agency](#) — Scale Your Agency
-A platform designed for **agency owners** to:
--  Streamline client acquisition & onboarding  
--  Automate project & team management  
--  Learn systems to reach and grow beyond six figures  
--  Access ready-made playbooks for running a profitable agency  
-
----
-
-
 >  **Vision:** Empower independent entrepreneurs and agencies with **education + AI + templates** to grow smarter and faster.
