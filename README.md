@@ -1,4 +1,4 @@
-# 👋 Hi,
+# 👋 hi
 
 Currently working as a solopreneur building tools and educational platforms to help **freelancers, agency owners, and business builders** succeed in the new AI-powered economy. 
 
@@ -18,4 +18,4 @@ A platform designed for **agency owners** to:
 -  Automate, track pipelines, leads, rebilling, funnels and build websites 
 
 ---
->  **Vision:** Empower independent entrepreneurs and agencies with **education + AI + templates** to grow smarter and faster.
+>  **Vision:** Empower independent entrepreneurs and agencies with **education + platforms** to start and scale their agencies.
