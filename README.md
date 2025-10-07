@@ -1,12 +1,6 @@
 # 👋 Hi,
 
- **Entrepreneur | Educator | Data Science Learner**
-
-I’m a solopreneur building tools and educational platforms to help **freelancers, agency owners, and business builders** succeed in the new AI-powered economy. 
-
----
-
-##  GitHub & Growth Stats
+Currently working as a solopreneur building tools and educational platforms to help **freelancers, agency owners, and business builders** succeed in the new AI-powered economy. 
 
 ![Claymon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Claymon-Muntu&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000)
 
